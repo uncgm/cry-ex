@@ -2,7 +2,7 @@
   "name": "crypto-ex",
   "version": "0.1.2",
   "private": true,
-  "homepage": "https://uncgm.github.io/cry-ex",
+  "homepage": "https://uncgm.github.io/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.1",
     "@testing-library/jest-dom": "^5.16.4",
