@@ -1,0 +1,9 @@
+{
+  "short_name": "Cry-Ex",
+  "name": "Cryptocurrency Exchanger",
+  
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
